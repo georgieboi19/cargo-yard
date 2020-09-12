@@ -1,0 +1,13 @@
+C:\Users\gharr\source\repos\CargoYard\CargoYard\bin\Debug\netcoreapp3.1\CargoYard.exe
+C:\Users\gharr\source\repos\CargoYard\CargoYard\bin\Debug\netcoreapp3.1\CargoYard.deps.json
+C:\Users\gharr\source\repos\CargoYard\CargoYard\bin\Debug\netcoreapp3.1\CargoYard.runtimeconfig.json
+C:\Users\gharr\source\repos\CargoYard\CargoYard\bin\Debug\netcoreapp3.1\CargoYard.runtimeconfig.dev.json
+C:\Users\gharr\source\repos\CargoYard\CargoYard\bin\Debug\netcoreapp3.1\CargoYard.dll
+C:\Users\gharr\source\repos\CargoYard\CargoYard\bin\Debug\netcoreapp3.1\CargoYard.pdb
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.csprojAssemblyReference.cache
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.AssemblyInfoInputs.cache
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.AssemblyInfo.cs
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.csproj.CoreCompileInputs.cache
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.dll
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.pdb
+C:\Users\gharr\source\repos\CargoYard\CargoYard\obj\Debug\netcoreapp3.1\CargoYard.genruntimeconfig.cache
