@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gharr\\source\\repos\\CargoYard\\CargoYard\\CargoYard.csproj": {}
+    "C:\\Users\\gharr\\Documents\\GitHub\\cargo-yard\\CargoYard\\CargoYard\\CargoYard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gharr\\source\\repos\\CargoYard\\CargoYard\\CargoYard.csproj": {
+    "C:\\Users\\gharr\\Documents\\GitHub\\cargo-yard\\CargoYard\\CargoYard\\CargoYard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gharr\\source\\repos\\CargoYard\\CargoYard\\CargoYard.csproj",
+        "projectUniqueName": "C:\\Users\\gharr\\Documents\\GitHub\\cargo-yard\\CargoYard\\CargoYard\\CargoYard.csproj",
         "projectName": "CargoYard",
-        "projectPath": "C:\\Users\\gharr\\source\\repos\\CargoYard\\CargoYard\\CargoYard.csproj",
+        "projectPath": "C:\\Users\\gharr\\Documents\\GitHub\\cargo-yard\\CargoYard\\CargoYard\\CargoYard.csproj",
         "packagesPath": "C:\\Users\\gharr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gharr\\source\\repos\\CargoYard\\CargoYard\\obj\\",
+        "outputPath": "C:\\Users\\gharr\\Documents\\GitHub\\cargo-yard\\CargoYard\\CargoYard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

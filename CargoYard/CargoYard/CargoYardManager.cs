@@ -10,14 +10,15 @@ namespace CargoYard
     {
 
         private ArrayList cargoList;
+        private ArrayList shipList;
         public void ShowMenu()
         {
             //throw new NotImplementedException();
 
             Console.WriteLine("1. View Cargo");
-            Console.WriteLine("1. Add cargo");
-            Console.WriteLine("1. View Ships");
-            Console.WriteLine("1. Add ships");
+            Console.WriteLine("2. Add cargo");
+            Console.WriteLine("3. View Ships");
+            Console.WriteLine("4. Add ships");
 
             int menuItem = Console.Read();
             menu1Choice(Convert.ToChar(menuItem));
@@ -33,6 +34,7 @@ namespace CargoYard
                     AddCargo();
                     break;
                 case 3:
+                    addShip();
                     break;
                 case 4:
                     break;
@@ -90,6 +92,21 @@ namespace CargoYard
             {
                 cargoList.Add(cargo);
             }
+        }
+
+        private void addShip()
+        {
+            Console.WriteLine("Ship name:");
+            string shipName = Console.ReadLine();
+
+            Random rnd = new Random();
+            int maxCargo = rnd.Next(10, 20);
+            int maxChilled = rnd.Next(maxCargo);
+            int maxHazardous = rnd.Next(maxCargo - maxChilled);
+
+            Ship ship = new Ship(maxCargo, maxHazardous, maxChilled, shipName);
+            shipList.Add(ship);
+
         }
     }
 }
