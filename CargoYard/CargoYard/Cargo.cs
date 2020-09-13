@@ -27,6 +27,16 @@ namespace CargoYard
             get => iD;
             set => iD = value;
         }
-    }
 
+        public string getSetCompany
+        {
+            get => companyName;
+            set => companyName = value;
+        }
+        public string getCargo()
+        {
+            return "Cargo: " + companyName + " " + weight + " " + sizeCategory;
+        }
+    }
+    
 }

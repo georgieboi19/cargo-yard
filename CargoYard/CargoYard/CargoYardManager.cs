@@ -9,8 +9,8 @@ namespace CargoYard
     public class CargoYardManager : CargoYardInterface
     {
 
-        private ArrayList cargoList;
-        private ArrayList shipList;
+        private List<Cargo> cargoList;
+        private List<Ship> shipList;
         public void ShowMenu()
         {
             //throw new NotImplementedException();
@@ -34,9 +34,10 @@ namespace CargoYard
                     AddCargo();
                     break;
                 case 3:
-                    addShip();
+                    
                     break;
                 case 4:
+                    addShip();
                     break;
             }
         }
@@ -106,7 +107,19 @@ namespace CargoYard
 
             Ship ship = new Ship(maxCargo, maxHazardous, maxChilled, shipName);
             shipList.Add(ship);
+        }
 
+        private void loadShip()
+        {
+
+        }
+
+        private void viewCargo()
+        {
+            for(int i = 0; i <= cargoList.Count; i++)
+            {
+                
+            }
         }
     }
 }
